@@ -48,15 +48,4 @@ Menampilkan konten lengkap artikel berdasarkan slug.
 
 ---
 
-## ⚙️ Cara Instalasi
 
-### 1. Clone atau Unduh Proyek
-
-```bash
-git clone https://github.com/username/lab11_ci.git
-cd lab11_ci
-
-#### 2. Konfigurasi Database
-Buat database dengan nama: db_artikel
-
-Import tabel dengan query berikut:
